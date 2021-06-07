@@ -1,52 +1,40 @@
 {
   "tasks":[
     {
-      "id": 1,
-      "title": "Task 1",
-      "description": "Description for task 1",
-      "location": "Valletta",
-      "date": "1st of Jan",
-      "time": "12.00"
+      "id": 722,
+      "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/214/90/0/packshots%252FPDG_Y0002880_F000288001.jpg",
+      "name": "\n                            Precious Rocks\n                            ",
+      "price": "20.5"
     },
     {
-      "id": 2,
-      "title": "Task 2",
-      "description": "Description for task 2",
-      "location": "Valletta",
-      "date": "1st of Jan",
-      "time": "12.00"
+      "id": 697,
+      "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/390/100/0/packshots%252FPDG_Y9185280_F918528000.jpg",
+      "name": "Couture Colour Wardrobe palette",
+      "price": "65.0"
     },
     {
-      "id": 3,
-      "title": "Task 3",
-      "description": "Description for task 3",
-      "location": "Valletta",
-      "date": "1st of Jan",
-      "time": "12.00"
+      "id": 662,
+      "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/390/100/0/packshots%252FPDG_Y9185275_F918527500.jpg",
+      "name": "Dior Holiday Couture Collection",
+      "price": "77.0"
     },
     {
-      "id": 4,
-      "title": "Task 4",
-      "description": "Description for task 4",
-      "location": "Valletta",
-      "date": "1st of Jan",
-      "time": "12.00"
+      "id": 699,
+      "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/0/90/0/packshots%252FPDG_landscape_Y0697970.jpg",
+      "name": "Diorshow Maximizer 3D",
+      "price": "25.5"
     },
     {
-      "id": 5,
-      "title": "Task 5",
-      "description": "Description for task 5",
-      "location": "Valletta",
-      "date": "1st of Jan",
-      "time": "12.00"
+      "id": 679,
+      "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/390/100/0/packshots%252FPDG_Y0719390_F071939001_v2.jpg",
+      "name": "DIORIFIC PRECIOUS ROCKS - Christmas 2017 Limited Edition",
+      "price": "40.0"
     },
     {
-      "id": 6,
-      "title": "Task 6",
-      "description": "Description for task 6",
-      "location": "Valletta",
-      "date": "1st of Jan",
-      "time": "12.00"
+      "id": 670,
+      "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/390/100/0/packshots%252FPDG_Y0278001_F027800006_v2.jpg",
+      "name": "DIORIFIC MATTE FLUID - Christmas Look 2017 Limited Edition",
+      "price": "27.5"
     }
   ]
 }
